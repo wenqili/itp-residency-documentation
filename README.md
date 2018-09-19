@@ -12,18 +12,18 @@ To focus on newness, wonderments, rivalries, challenges, and ethical issues brou
 To create innovative forms of performance that uses tech tools, human computer interactions and multimedia environment.
 
 ## Recently I'm focusing on
-🕛 [Personal Project] Be "more open-source" & more focused
-🕛 [Personal Project] Developing Artificial Frequency (working title)
-🕛 [Academic Research] Machine learning for live performance
-🕛 [Creative Tech/Service] Testing an alternative option for Kinect: Intel RealSense
-🕛 [Web/Service] Updating P5.serial tool
-🕛 [Creative Tech/Service] Diving into entertainment technology and micro studio development (Microstudio is a studio place for ITP projects)
-🕛 [Web/Service] Developing online emerging media journal  [-> Adjacent](https://itp.nyu.edu/adjacent/issue-3/)
-🕛 [Creative Tech] @Path New Music, a multimedia opera named Simulacrum
-🕛 [Creative Tech] @lycée français de new york, co-teaching creative coding workshops and building installation
-🕛 [Career] As a interaction designer/creative developer/full stack developer/underground performer
-🤗**Open for opportunities and collaborations**🤗
-*[previous projects here](www.wenqi.li)*
+🕛 [Personal Project] Be "more open-source" & more focused.  
+🕛 [Personal Project] Developing Artificial Frequency(working title).  
+🕛 [Academic Research] Machine learning for live performance.  
+🕛 [Creative Tech/Service] Testing an alternative option for Kinect: Intel RealSense.  
+🕛 [Web/Service] Updating P5.serial tool.  
+🕛 [Creative Tech/Service] Diving into entertainment.   technology and micro studio development (Microstudio is a studio place for ITP projects).  
+🕛 [Web/Service] Developing online emerging media journal  [-> Adjacent](https://itp.nyu.edu/adjacent/issue-3/).  
+🕛 [Creative Tech] @Path New Music, a multimedia opera named Simulacrum.  
+🕛 [Creative Tech] @lycée français de new york, co-teaching creative coding workshops and building installation.  
+🕛 [Career] As a interaction designer/creative developer/full stack developer/underground performer.  
+🤗**Open for opportunities and collaborations**🤗.  
+*[previous projects here](www.wenqi.li)*.  
 	
 ## Office hours & Service project notes 
 #### Week #3: Sep 17 ~ Sep 21, 2018
