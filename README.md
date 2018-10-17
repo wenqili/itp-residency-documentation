@@ -37,11 +37,24 @@ To create innovative forms of performance that uses tech tools, human computer i
 *[previous projects here](www.wenqi.li)*.  
 	
 ## Office hours & Service project notes
+#### Week #8: Oct 22 - Oct 26, 2018 (Planning)
+Projection Mapping Workshop  
+Fabrication consulting hours 
+#### Week #7: Oct 15 - Oct 19, 2018
+ - ✅ Google Calendar Scraping & css selector - *with Ilana Bonder*
+ - ✅ Save still image from WebRTC stream - *with Tong Wu*
+ - ✅ Pop-up window ideation - *with Chen Chen*
+ - ✅ Portfolio review & front end roadmap - *Xiran Yang*
+ - ✅ finite state machine - *With Tong Wu*
+ - 🕛 Adjacent soft launch
+ - 🕛 NIME residents meetup
+
 #### Week #6: Oct 8 - Oct 12, 2018
 - 🕛 Adjacent 004 web development  
 [🕛 CSS tips for wordpress]()
 - ✅ NIME ideation - *with Yiyao Nie*
 - ✅ finite state machine - *with Billy Bennett*
+- ✅ Microstudio upgrade: VR station debugging
 #### Week #5: Oct 1 - Oct 5, 2018
 - ✅ Little furry monster - *with Yuan Chen*
 - ✅ p5.serialcontrol  
