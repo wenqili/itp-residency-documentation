@@ -37,17 +37,41 @@ To create innovative forms of performance that uses tech tools, human computer i
 *[previous projects here](www.wenqi.li)*.  
 	
 ## Office hours & Service project notes
-#### Week #8: Oct 22 - Oct 26, 2018 (Planning)
-Projection Mapping Workshop  
-Fabrication consulting hours 
+#### Week #10: Nov 5 - Nov 9, 2018 (Planning)
+- ✅ Github basics workshop
+- ✅ Arduino shiftiness - *with Eva Chen*
+- ✅ NIME discussion, Hand fan instrument - *with Yue Fan*
+- ✅ Creative Technologist career - *with Yuguang Zhang*
+- ✅ Pop Up window: callback function, interaction, socket.io - *with Rebecca Skurnik*
+
+#### Week #9: Oct 29 - Nov 2, 2018
+- ✅ Adjacent Conference - *with Adjacent Team*
+- ✅ ICMadness - *with residents & ICM teachers*
+- ✅ Tech x Performance meetup Vol.1 - *with Tiriree Kananurak*
+- ✅ Adjacent Web Dev and launch - *with Itay, Ilena, Yen-an*
+- ✅ Talk with Dan'O and Mimi
+- ✅ Responsive web design - *with Racheal Lim*
+- ✅ Fabric Instrument: concept, sensors, thread - *with Yiyao Nie*
+- ✅ Socket.io basics - *with Rebecca Skurnik*
+- ✅ API, Array and object - *with Yihan Tang*
+- ✅ NIME meetings - *with Hayley, Ari*
+
+#### Week #8: Oct 22 - Oct 26, 2018
+- ✅ Adjacent dev and collaborations on slack - *with Adjacent team*
+- ✅ System as performance - *with Carrie Wang*
+- ✅ Gear and Clock as performance - *with Chengchao Zhu*
+- ✅ String and box instrument - *with Yihan Liu*
+- 🕛 Using three.js for data art - *with Genevieve Hoffman*
+- ✅ Sending events via socket.io - *with Ivy Huang*
+
 #### Week #7: Oct 15 - Oct 19, 2018
- - ✅ Google Calendar Scraping & css selector - *with Ilana Bonder*
- - ✅ Save still image from WebRTC stream - *with Tong Wu*
- - ✅ Pop-up window ideation - *with Chen Chen*
- - ✅ Portfolio review & front end roadmap - *Xiran Yang*
- - ✅ finite state machine - *With Tong Wu*
- - 🕛 Adjacent soft launch
- - 🕛 NIME residents meetup
+- ✅ Google Calendar Scraping & css selector - *with Ilana Bonder*
+- ✅ Save still image from WebRTC stream - *with Tong Wu*
+- ✅ Pop-up window ideation - *with Chen Chen*
+- ✅ Portfolio review & front end roadmap - *Xiran Yang*
+- ✅ finite state machine - *With Tong Wu*
+- 🕛 Adjacent soft launch
+- 🕛 NIME residents meetup
 
 #### Week #6: Oct 8 - Oct 12, 2018
 - 🕛 Adjacent 004 web development  
